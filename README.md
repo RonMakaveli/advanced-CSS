@@ -1,5 +1,5 @@
-# advanced-CSS
-<h3>Algumas ramificações do CSS</h3>
+# <em>advanced-CSS</em>
+<h3><em>Algumas ramificações do CSS</em></h3>
 
 <ul>
   <li>CSS Orientado a Objetos (CSSOO)</li>
