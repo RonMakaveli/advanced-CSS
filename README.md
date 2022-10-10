@@ -6,6 +6,6 @@
   <li><a href="https://www.toptal.com/css/smacss-scalable-modular-architecture-css">SMACSS</a> <em>(arquitetura)</em></li>
   <li><a href="https://desenvolvimentoparaweb.com/css/bem/">BEM</a> <em>(metodologia)</em></li>
   <li><a href="https://www.zup.com.br/blog/o-que-sao-pre-processadores-css">pré-processadores CSS</a></li>
-  <li>Namespaces CSS</li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Namespaces">Namespaces CSS</a></li>
   <li>Task Runners</li>
 </ul>
