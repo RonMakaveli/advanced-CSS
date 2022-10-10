@@ -7,5 +7,5 @@
   <li><a href="https://desenvolvimentoparaweb.com/css/bem/">BEM</a> <em>(metodologia)</em></li>
   <li><a href="https://www.zup.com.br/blog/o-que-sao-pre-processadores-css">pré-processadores CSS</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Namespaces">Namespaces CSS</a></li>
-  <li>Task Runners</li>
+  <li><a href="https://support.dadatypo.com/support/solutions/articles/19000115392-css-sass-js-and-task-runners">Task Runners</a></li>
 </ul>
